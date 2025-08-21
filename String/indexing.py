@@ -1,7 +1,3 @@
-"""
-Examples: Indexing in Python using strings
-"""
-
 my_str = "Python"
 
 # Accessing individual characters

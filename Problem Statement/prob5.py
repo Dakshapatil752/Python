@@ -1,5 +1,5 @@
 """
-Simple Text Analysis Tool
+Simple Text Analysis Tool (string)
 """
 
 from collections import Counter

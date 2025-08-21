@@ -1,8 +1,4 @@
-"""
-Simple Student Grade Management System
-"""
-
-# Dictionary to store student names and grades
+#to store student names and grades (list)
 students = {}
 
 while True:

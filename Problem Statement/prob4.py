@@ -1,8 +1,5 @@
-"""
-Web Server Configuration System
-"""
-
 # Server IP (tuple, immutable)
+
 server_ip = (192, 168, 1, 100)
 
 # Allowed IPs (list, mutable)

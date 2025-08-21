@@ -1,7 +1,3 @@
-"""
-Examples: Declaration of tuple in Python
-"""
-
 # Creating a tuple using parentheses
 my_tuple = (1, 2, 3, 4)
 print("Tuple using parentheses:", my_tuple)

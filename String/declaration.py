@@ -1,7 +1,3 @@
-"""
-Examples: Declaration of strings in Python
-"""
-
 # Using single quotes
 str1 = 'Hello, World!'
 print("Single quotes:", str1)

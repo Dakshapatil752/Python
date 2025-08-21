@@ -1,7 +1,3 @@
-"""
-Examples: Different types of string slicing in Python
-"""
-
 my_str = "Programming"
 
 # Basic slicing

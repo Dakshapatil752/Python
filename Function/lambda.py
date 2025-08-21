@@ -1,7 +1,3 @@
-"""
-Examples: Lambda functions in Python
-"""
-
 # Simple lambda function for addition
 add = lambda x, y: x + y
 print("Addition using lambda:", add(5, 3))

@@ -1,7 +1,3 @@
-"""
-Examples: Various operations on tuples in Python
-"""
-
 tup = (10, 20, 30, 40, 50)
 
 # Accessing elements

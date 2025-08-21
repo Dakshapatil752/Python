@@ -1,7 +1,3 @@
-"""
-Examples: Declaration of dictionary in Python
-"""
-
 # Creating a dictionary using curly braces
 my_dict = {'name': 'Alice', 'age': 25, 'city': 'New York'}
 print("Dictionary using curly braces:", my_dict)

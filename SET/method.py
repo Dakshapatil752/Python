@@ -1,7 +1,3 @@
-"""
-Example: Common set methods in Python
-"""
-
 my_set = {1, 2, 3}
 
 # Add an element (similar to append for lists)

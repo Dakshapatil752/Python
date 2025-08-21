@@ -1,7 +1,3 @@
-"""
-Examples: Creation of frozenset in Python
-"""
-
 # Creating a frozenset from a list
 fs1 = frozenset([1, 2, 3, 4])
 print("Frozenset from list:", fs1)

@@ -1,7 +1,3 @@
-"""
-Example: Creation of sets in Python
-"""
-
 # Creating a set using curly braces
 my_set = {1, 2, 3, 4, 5}
 print("Set using curly braces:", my_set)
