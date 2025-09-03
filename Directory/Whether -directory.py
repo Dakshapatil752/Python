@@ -1,6 +1,4 @@
-"""
-Check whether a path is a directory in Python
-"""
+#Check whether a path is a directory in Pyth
 
 import os
 
