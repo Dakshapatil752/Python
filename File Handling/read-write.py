@@ -1,7 +1,3 @@
-"""
-Example: Read and write file using file handling in Python
-"""
-
 # Writing to a file
 with open('example.txt', 'w') as f:
     f.write('Hello, this is a sample text file.\n')
