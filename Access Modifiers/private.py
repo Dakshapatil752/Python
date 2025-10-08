@@ -6,6 +6,4 @@ class MyClass:
         return self.__private_var  # Accessing private variable inside the class
 
 obj = MyClass()
-print(obj.get_private_var())      # This works
-
-# print(obj.__private_var)       # This will raise an AttributeError
+print(obj.get_private_var())    
