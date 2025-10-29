@@ -1,0 +1,24 @@
+import csv
+
+# Create or open the CSV file
+with open("students.csv", "w", newline="") as file:
+    writer = csv.writer(file)
+
+    # Write header row
+    writer.writerow(["Name", "Age", "City"])
+
+    # Take input from user
+    while True:
+        name = input("Enter name: ")
+        age = input("Enter age: ")
+        city = input("Enter city: ")
+
+        # Write data to CSV file
+        writer.writerow([name, age, city])
+
+        # Ask if user wants to continue
+        choice = input("Do you want to add another record? (y/n): ").lower()
+        if choice != "y":
+            break
+
+print(" CSV file 'students.csv' created successfully!")
