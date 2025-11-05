@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-names = ['Daksha', 'Raj', 'Sneha', 'Amit']
+names = ['Daksha', 'Raj', 'Sneha', 'jay']
 marks = [85, 90, 78, 92]
 
 plt.bar(names, marks, color='orange')
